@@ -1,6 +1,6 @@
-# Case-Study-2-Who-Are-Our-Best-Customers
+# Case-Study-Who-Are-Our-Best-Customers
 
-Case Study 2: Who Are Our Best Customers?
+Case Study: Who Are Our Best Customers?
 
 Subtitle: RFM customer segmentation for a UK online gift retailer
 
