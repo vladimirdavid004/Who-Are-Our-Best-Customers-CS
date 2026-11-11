@@ -20,14 +20,14 @@ An online gift-ware company sends the same marketing to every customer. It wants
 4. Revenue concentration: sort customers by spend and find the top 20% share.
 5. Dashboard: Tableau Public with segment sizes, revenue by segment, and a monthly trend line.
 
-## Findings (fill in after you run it)
+## Findings 
 • Customers analyzed: ___
 • Top 20% of customers drive ___% of revenue
 • Champions: ___ customers, ___% of revenue
 • At Risk: ___ customers worth £___ in past spend
 • Peak month: ___
 
-## Recommendations (fill in)
+## Recommendations 
 1. Champions (recent, frequent, big spenders): reward and protect them. Give them a VIP tier with early access to new products, free shipping and a dedicated contact. Goal: keep them buying, not discount them. They already spend the most, so perks beat price cuts.
 2. Loyal customers: grow them into Champions. Send personalized "you might also like" offers based on what they already buy, plus a volume bonus for larger orders (useful since many customers are wholesalers).
 3. At Risk (used to buy often, haven't lately): win them back first. This is the biggest opportunity. Send a win-back email series with a time-limited offer, and have someone reach out personally to the highest-spending ones to ask why they stopped.
