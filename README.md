@@ -21,12 +21,12 @@ An online gift-ware company sends the same marketing to every customer. It wants
 5. Dashboard: Tableau Public with segment sizes, revenue by segment, and a monthly trend line.
 
 ## Findings 
-• Customers analyzed: 5,878, with about £17.7M in total revenue (Dec 2009 – Dec 2011)
-• Top 20% of customers drive 77.2% of revenue
-• Champions: 1,482 customers (25% of the base) bring in 69.3% of revenue (£12.3M)
-• At Risk: 824 customers worth £1.63M in past spend (9.2% of revenue)
-• Lost: 1,908 customers, the largest group (32% of the base), but only 4.9% of revenue
-• Peak month: November in both years (£1.17M in Nov 2010, £1.16M in Nov 2011), with October 2011 third at £1.04M, so holiday gift buying drives the year
+1. Customers analyzed: 5,878, with about £17.7M in total revenue (Dec 2009 – Dec 2011)
+2. Top 20% of customers drive 77.2% of revenue
+3. Champions: 1,482 customers (25% of the base) bring in 69.3% of revenue (£12.3M)
+4. At Risk: 824 customers worth £1.63M in past spend (9.2% of revenue)
+5. Lost: 1,908 customers, the largest group (32% of the base), but only 4.9% of revenue
+6. Peak month: November in both years (£1.17M in Nov 2010, £1.16M in Nov 2011), with October 2011 third at £1.04M, so holiday gift buying drives the year
 
 ## Recommendations 
 1.  Champions (recent, frequent, big spenders): reward and protect them. Give them a VIP tier with early access to new products, free shipping and a dedicated contact. Goal: keep them buying, not discount them. They already spend the most, so perks beat price cuts.
